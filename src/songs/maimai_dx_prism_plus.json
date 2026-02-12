@@ -47818,62 +47818,6 @@
       ]
     },
     {
-      "name": "[協]Love You",
-      "artist": "Q;indivi [cover]",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/daf6adeacb8fc300.png",
-      "charts": []
-    },
-    {
-      "name": "[協]恋愛裁判",
-      "artist": "40mP",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/3dc5138216e086fe.png",
-      "charts": []
-    },
-    {
-      "name": "[協]Hand in Hand",
-      "artist": "livetune",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/687a2e2257afd36e.png",
-      "charts": []
-    },
-    {
-      "name": "[協]疾走あんさんぶる",
-      "artist": "ビートまりお（COOL&CREATE）",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/4ae8a044a75d8432.png",
-      "charts": []
-    },
-    {
-      "name": "[協]ラグトレイン",
-      "artist": "稲葉曇",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/3d04a3710463921e.png",
-      "charts": []
-    },
-    {
-      "name": "[奏]アカツキアライヴァル",
-      "artist": "Last Note.",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/f27eaa7f0425f9c8.png",
-      "charts": []
-    },
-    {
-      "name": "[協]青春コンプレックス",
-      "artist": "結束バンド",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/b3c2cfe1e41c7ee9.png",
-      "charts": []
-    },
-    {
       "name": "Mystic Parade",
       "artist": "ひとしずく×やま△ feat.悠佑＆ないこ（いれいす）",
       "folder": "maimai",
@@ -48118,14 +48062,6 @@
           "levelConstant": 12.6
         }
       ]
-    },
-    {
-      "name": "[宴]Oshama Scramble!",
-      "artist": "t+pazolite",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/64635a3534ce788a.png",
-      "charts": []
     },
     {
       "name": "ぽわわん劇場",
@@ -49030,86 +48966,6 @@
       ]
     },
     {
-      "name": "[蔵]In Chaos",
-      "artist": "Hiro「Crackin’DJ」",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/a044abc0c8fca1cf.png",
-      "charts": []
-    },
-    {
-      "name": "[蛸]チルノのパーフェクトさんすう教室",
-      "artist": "ARM＋夕野ヨシミ(IOSYS)feat. miko",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/d44aee5f4b660d3d.png",
-      "charts": []
-    },
-    {
-      "name": "[星]しゅわスパ大作戦☆",
-      "artist": "SOUND HOLIC feat. Nana Takahashi",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/cd787bcc1dc248f7.png",
-      "charts": []
-    },
-    {
-      "name": "[宴]セガサターン起動音[H.][Remix]",
-      "artist": "Hiro",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/6cb5afa2c0d02884.png",
-      "charts": []
-    },
-    {
-      "name": "[は]Garakuta Doll Play",
-      "artist": "t+pazolite",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/a259af51e0b9d863.png",
-      "charts": []
-    },
-    {
-      "name": "[宴]CYCLES",
-      "artist": "Masayoshi Minoshima feat. 綾倉盟",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/2e64a1f5e2e4b832.png",
-      "charts": []
-    },
-    {
-      "name": "[狂]タカハせ！名人マン",
-      "artist": "ビートまりお + ARM feat. 高橋名人",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/f671bf7482912046.png",
-      "charts": []
-    },
-    {
-      "name": "[蔵]Glorious Crown",
-      "artist": "xi",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/0c142b42f0e37845.png",
-      "charts": []
-    },
-    {
-      "name": "[覚]東京リアルワールド",
-      "artist": "out of service",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/a4c576aec0c3897c.png",
-      "charts": []
-    },
-    {
-      "name": "[疑]DETARAME ROCK&ROLL THEORY",
-      "artist": "箱部 なる(CV:M・A・O)",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/d3a429e38da60e5a.png",
-      "charts": []
-    },
-    {
       "name": "RAD DOGS",
       "artist": "八王子P / 初音ミク / Vivid BAD SQUAD「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」",
       "folder": "maimai",
@@ -49895,38 +49751,6 @@
           "levelConstant": 15
         }
       ]
-    },
-    {
-      "name": "[耐]Space Harrier Main Theme [Reborn]",
-      "artist": "佐野 信義「スペースハリアー」",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/2f730929cef3fa6e.png",
-      "charts": []
-    },
-    {
-      "name": "[右]The wheel to the right",
-      "artist": "Sampling Masters MEGA",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/9f01a2ef6b665b53.png",
-      "charts": []
-    },
-    {
-      "name": "[逆]KING is BACK!!",
-      "artist": "A-One",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/f051590fb4cf9e96.png",
-      "charts": []
-    },
-    {
-      "name": "[回]回る空うさぎ",
-      "artist": "Orangestar",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/dd2686a8aa23107f.png",
-      "charts": []
     },
     {
       "name": "QUEEN",
@@ -50822,78 +50646,6 @@
       ]
     },
     {
-      "name": "[J]Garakuta Doll Play",
-      "artist": "t+pazolite",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/a259af51e0b9d863.png",
-      "charts": []
-    },
-    {
-      "name": "[奏]チュルリラ・チュルリラ・ダッダッダ！",
-      "artist": "和田たけあき(くらげP)",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/e500e033148d33c1.png",
-      "charts": []
-    },
-    {
-      "name": "[協]エイリアンエイリアン",
-      "artist": "ナユタン星人",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/30b9a835ccb9b302.png",
-      "charts": []
-    },
-    {
-      "name": "[疑]ロキ",
-      "artist": "みきとP",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/b5d48d0f260a213d.png",
-      "charts": []
-    },
-    {
-      "name": "[奏]テレキャスタービーボーイ",
-      "artist": "すりぃ",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/8ec5044872bc5c23.png",
-      "charts": []
-    },
-    {
-      "name": "[息]ノンブレス・オブリージュ",
-      "artist": "ピノキオピー",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/6a7cf1cc1358ceba.png",
-      "charts": []
-    },
-    {
-      "name": "[r]Garakuta Doll Play",
-      "artist": "t+pazolite",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/a259af51e0b9d863.png",
-      "charts": []
-    },
-    {
-      "name": "[玉]Garakuta Doll Play",
-      "artist": "t+pazolite",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/a259af51e0b9d863.png",
-      "charts": []
-    },
-    {
-      "name": "[某]Garakuta Doll Play",
-      "artist": "t+pazolite",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/a259af51e0b9d863.png",
-      "charts": []
-    },
-    {
       "name": "DUAL ROZES",
       "artist": "SOUND HOLIC Vs. Eurobeat Union feat. Nana Takahashi",
       "folder": "maimai",
@@ -51673,22 +51425,6 @@
       ]
     },
     {
-      "name": "[宴]Oshama Scramble! (Cranky Remix)",
-      "artist": "Cranky",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/262844c08ce50193.png",
-      "charts": []
-    },
-    {
-      "name": "[奏]さくゆいたいそう",
-      "artist": "さくゆい",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/4a865397a5170d82.png",
-      "charts": []
-    },
-    {
       "name": "LOSTPHANTASIA",
       "artist": "岸田教団&THE明星ロケッツ×草野華余子",
       "folder": "maimai",
@@ -51851,22 +51587,6 @@
           "levelConstant": 14
         }
       ]
-    },
-    {
-      "name": "[協]三妖精SAY YA!!!",
-      "artist": "森羅万象",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/30b9ee1f385156b4.png",
-      "charts": []
-    },
-    {
-      "name": "[覚]スカーレット警察のゲットーパトロール24時",
-      "artist": "七条レタスグループ",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/5f9f0619083ebab0.png",
-      "charts": []
     },
     {
       "name": "RE:INCARNATED DRAGNER",
@@ -52605,22 +52325,6 @@
           "levelConstant": 13
         }
       ]
-    },
-    {
-      "name": "[奏]ヒトガタ",
-      "artist": "HIMEHINA",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/a33a77ea8c117b3d.png",
-      "charts": []
-    },
-    {
-      "name": "[両]はんぶんこ",
-      "artist": "三枝明那",
-      "folder": "maimai",
-      "category": "宴会場",
-      "jacket": "maimai/4d9e0c3640c966c5.png",
-      "charts": []
     },
     {
       "name": "まっすぐ→→→ストリーム！",
@@ -56163,91 +55867,6 @@
       ]
     },
     {
-      "name": "[甘]スイートマジック",
-      "artist": "ろん×Junky",
-      "folder": "PRiSM PLUS",
-      "category": "宴会場",
-      "jacket": "maimai/31f2fe5a9d47549648e15d46435abc418c450e0af529f70ed4127ed2eae7616d.png",
-      "charts": [
-        {
-          "flags": [
-            "std"
-          ],
-          "diffClass": "【甘】",
-          "lvl": 12,
-          "levelConstant": 12
-        }
-      ]
-    },
-    {
-      "name": "[回]ハム太郎とっとこうた",
-      "artist": "ハムちゃんず [covered by 光吉猛修]",
-      "folder": "PRiSM PLUS",
-      "category": "宴会場",
-      "jacket": "maimai/06f4e2a34d6d59cffcb7bcaa6f07fdc51a76648f908e00594f6356f17b9b135c.png",
-      "charts": [
-        {
-          "flags": [
-            "std"
-          ],
-          "diffClass": "【回】",
-          "lvl": 13,
-          "levelConstant": 13
-        }
-      ]
-    },
-    {
-      "name": "[即]チューリングの跡",
-      "artist": "Frums",
-      "folder": "PRiSM PLUS",
-      "category": "宴会場",
-      "jacket": "maimai/9c5fdab71b0c6b3f056ecbcbc48cd17f44daee52d982d0adf406a64cbbca2716.png",
-      "charts": [
-        {
-          "flags": [
-            "std"
-          ],
-          "diffClass": "【即】",
-          "lvl": 13,
-          "levelConstant": 13
-        }
-      ]
-    },
-    {
-      "name": "[匿]匿名M",
-      "artist": "ピノキオピー",
-      "folder": "PRiSM PLUS",
-      "category": "宴会場",
-      "jacket": "maimai/7e3280891240d7f72f15eb03be289b21869044b3b38788ee16c71f5a0a22315f.png",
-      "charts": [
-        {
-          "flags": [
-            "std"
-          ],
-          "diffClass": "【匿】",
-          "lvl": 13,
-          "levelConstant": 13.6
-        }
-      ]
-    },
-    {
-      "name": "[助]メズマライザー",
-      "artist": "サツキ feat.初音ミク・重音テト",
-      "folder": "PRiSM PLUS",
-      "category": "宴会場",
-      "jacket": "maimai/44c55b94a4f2b8c101ebf8c96f906c1cc5cc8b273012306793676d8b9a3e37b8.png",
-      "charts": [
-        {
-          "flags": [
-            "std"
-          ],
-          "diffClass": "【助】",
-          "lvl": 13,
-          "levelConstant": 13.6
-        }
-      ]
-    },
-    {
       "name": "Åntinomiε",
       "artist": "ああ…翡翠茶漬け…",
       "folder": "PRiSM PLUS",
@@ -56449,23 +56068,6 @@
           "diffClass": "master",
           "lvl": 13,
           "levelConstant": 13.4
-        }
-      ]
-    },
-    {
-      "name": "[幸]犬日和。(はっぴー歌唱Ver)",
-      "artist": "こうのさんとはっぴーちゃん/Hiroの犯行",
-      "folder": "PRiSM PLUS",
-      "category": "宴会場",
-      "jacket": "maimai/e089d171e667a0c8f8f45a256278ed5c350694d6613ecda6fc50c82637c356f7.png",
-      "charts": [
-        {
-          "flags": [
-            "std"
-          ],
-          "diffClass": "【幸】",
-          "lvl": 13,
-          "levelConstant": 13
         }
       ]
     },
@@ -56880,108 +56482,6 @@
       ]
     },
     {
-      "name": "[好]好きな惣菜発表ドラゴン",
-      "artist": "ンバヂ",
-      "folder": "PRiSM PLUS",
-      "category": "宴会場",
-      "jacket": "maimai/83dd218ce1138c8276764ece2a6353c55d6fb1e1542893a2c396d5df260022ed.png",
-      "charts": [
-        {
-          "flags": [
-            "std"
-          ],
-          "diffClass": "【好】",
-          "lvl": 14,
-          "levelConstant": 14
-        }
-      ]
-    },
-    {
-      "name": "[譜]好きな惣菜発表ドラゴン",
-      "artist": "ンバヂ",
-      "folder": "PRiSM PLUS",
-      "category": "宴会場",
-      "jacket": "maimai/83dd218ce1138c8276764ece2a6353c55d6fb1e1542893a2c396d5df260022ed.png",
-      "charts": [
-        {
-          "flags": [
-            "std"
-          ],
-          "diffClass": "【譜】",
-          "lvl": 14,
-          "levelConstant": 14
-        }
-      ]
-    },
-    {
-      "name": "[面]好きな惣菜発表ドラゴン",
-      "artist": "ンバヂ",
-      "folder": "PRiSM PLUS",
-      "category": "宴会場",
-      "jacket": "maimai/83dd218ce1138c8276764ece2a6353c55d6fb1e1542893a2c396d5df260022ed.png",
-      "charts": [
-        {
-          "flags": [
-            "std"
-          ],
-          "diffClass": "【面】",
-          "lvl": 14,
-          "levelConstant": 14
-        }
-      ]
-    },
-    {
-      "name": "[発]好きな惣菜発表ドラゴン",
-      "artist": "ンバヂ",
-      "folder": "PRiSM PLUS",
-      "category": "宴会場",
-      "jacket": "maimai/83dd218ce1138c8276764ece2a6353c55d6fb1e1542893a2c396d5df260022ed.png",
-      "charts": [
-        {
-          "flags": [
-            "std"
-          ],
-          "diffClass": "【発】",
-          "lvl": 13,
-          "levelConstant": 13.6
-        }
-      ]
-    },
-    {
-      "name": "[表]好きな惣菜発表ドラゴン",
-      "artist": "ンバヂ",
-      "folder": "PRiSM PLUS",
-      "category": "宴会場",
-      "jacket": "maimai/83dd218ce1138c8276764ece2a6353c55d6fb1e1542893a2c396d5df260022ed.png",
-      "charts": [
-        {
-          "flags": [
-            "std"
-          ],
-          "diffClass": "【表】",
-          "lvl": 13,
-          "levelConstant": 13.6
-        }
-      ]
-    },
-    {
-      "name": "[龍]好きな惣菜発表ドラゴン",
-      "artist": "ンバヂ",
-      "folder": "PRiSM PLUS",
-      "category": "宴会場",
-      "jacket": "maimai/83dd218ce1138c8276764ece2a6353c55d6fb1e1542893a2c396d5df260022ed.png",
-      "charts": [
-        {
-          "flags": [
-            "std"
-          ],
-          "diffClass": "【龍】",
-          "lvl": 13,
-          "levelConstant": 13.6
-        }
-      ]
-    },
-    {
       "name": "FLΛME/FRΦST",
       "artist": "FANTAGIRAFF",
       "folder": "PRiSM PLUS",
@@ -57146,23 +56646,6 @@
       ]
     },
     {
-      "name": "[協]Ultimate taste",
-      "artist": "ぱらどっと",
-      "folder": "PRiSM PLUS",
-      "category": "宴会場",
-      "jacket": "maimai/6234a6b63bdc987c38d87f9a99821fc1dc95e33d9ac5c1baa5fc4673f7803636.png",
-      "charts": [
-        {
-          "flags": [
-            "std"
-          ],
-          "diffClass": "【協】",
-          "lvl": 13,
-          "levelConstant": 13.6
-        }
-      ]
-    },
-    {
       "name": "MYTH Re：LEASE",
       "artist": "打打だいず Vs. Tanchiky Vs. uma Vs. モリモリあつし",
       "folder": "PRiSM PLUS",
@@ -57323,40 +56806,6 @@
           "diffClass": "master",
           "lvl": 13,
           "levelConstant": 13
-        }
-      ]
-    },
-    {
-      "name": "[覚]Hainuwele",
-      "artist": "ETIA.",
-      "folder": "PRiSM PLUS",
-      "category": "宴会場",
-      "jacket": "maimai/0e482d3fe98d45755363a909270688f5e2ebd96ae780fd2861531958fb42d6ed.png",
-      "charts": [
-        {
-          "flags": [
-            "std"
-          ],
-          "diffClass": "【覚】",
-          "lvl": 13,
-          "levelConstant": 13.6
-        }
-      ]
-    },
-    {
-      "name": "[逆]WE'RE BACK!!",
-      "artist": "Zekk",
-      "folder": "PRiSM PLUS",
-      "category": "宴会場",
-      "jacket": "maimai/3d0fc531eaad9db6f8d8f5977a3ec2b0119b9f41297ca764363a5976b52595fa.png",
-      "charts": [
-        {
-          "flags": [
-            "std"
-          ],
-          "diffClass": "【逆】",
-          "lvl": 12,
-          "levelConstant": 12.6
         }
       ]
     },
@@ -58439,57 +57888,6 @@
           "diffClass": "master",
           "lvl": 13.5,
           "levelConstant": 13.8
-        }
-      ]
-    },
-    {
-      "name": "[協]Seyana. ～何でも言うことを聞いてくれるアカネチャン～",
-      "artist": "GYARI",
-      "folder": "PRiSM PLUS",
-      "category": "宴会場",
-      "jacket": "maimai/99a40805904616f17fcd478ca8b0195af5629229c54b01bc8617d344e7dbde29.png",
-      "charts": [
-        {
-          "flags": [
-            "std"
-          ],
-          "diffClass": "【協】",
-          "lvl": 13,
-          "levelConstant": 13
-        }
-      ]
-    },
-    {
-      "name": "[耐]星界ちゃんと可不ちゃんのおつかい合騒曲",
-      "artist": "南ノ南",
-      "folder": "PRiSM PLUS",
-      "category": "宴会場",
-      "jacket": "maimai/9538d6320c853768cbd14eb03f9850f949d44bfcca15037fecf67c340aaf13f5.png",
-      "charts": [
-        {
-          "flags": [
-            "std"
-          ],
-          "diffClass": "【耐】",
-          "lvl": 14,
-          "levelConstant": 14
-        }
-      ]
-    },
-    {
-      "name": "[騒]ありきたりな恋の歌",
-      "artist": "GYARI",
-      "folder": "PRiSM PLUS",
-      "category": "宴会場",
-      "jacket": "maimai/801629d887b1578e07a3cb0688bbbe92d50945e7fab1bb4580d852d14c314b1c.png",
-      "charts": [
-        {
-          "flags": [
-            "std"
-          ],
-          "diffClass": "【騒】",
-          "lvl": 13,
-          "levelConstant": 13.6
         }
       ]
     },
