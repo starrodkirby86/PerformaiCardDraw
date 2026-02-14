@@ -47093,7 +47093,7 @@
           ],
           "diffClass": "expert",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.8
         },
         {
           "flags": [
@@ -47101,7 +47101,7 @@
           ],
           "diffClass": "master",
           "lvl": 14,
-          "levelConstant": 14
+          "levelConstant": 14.4
         }
       ]
     },
@@ -47134,7 +47134,7 @@
           ],
           "diffClass": "expert",
           "lvl": 9.5,
-          "levelConstant": 9.6
+          "levelConstant": 9.8
         },
         {
           "flags": [
@@ -47142,7 +47142,7 @@
           ],
           "diffClass": "master",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.8
         }
       ]
     },
@@ -47183,7 +47183,7 @@
           ],
           "diffClass": "master",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.4
         }
       ]
     },
@@ -47224,7 +47224,7 @@
           ],
           "diffClass": "master",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.2
         }
       ]
     },
@@ -47298,7 +47298,7 @@
           ],
           "diffClass": "expert",
           "lvl": 11.5,
-          "levelConstant": 11.6
+          "levelConstant": 11.9
         },
         {
           "flags": [
@@ -47306,7 +47306,7 @@
           ],
           "diffClass": "master",
           "lvl": 14,
-          "levelConstant": 14
+          "levelConstant": 14.3
         }
       ]
     },
@@ -47339,7 +47339,7 @@
           ],
           "diffClass": "expert",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.8
         },
         {
           "flags": [
@@ -47347,7 +47347,7 @@
           ],
           "diffClass": "master",
           "lvl": 14,
-          "levelConstant": 14
+          "levelConstant": 14.3
         }
       ]
     },
@@ -47380,7 +47380,7 @@
           ],
           "diffClass": "expert",
           "lvl": 12,
-          "levelConstant": 12
+          "levelConstant": 12.5
         },
         {
           "flags": [
@@ -47388,7 +47388,7 @@
           ],
           "diffClass": "master",
           "lvl": 14,
-          "levelConstant": 14
+          "levelConstant": 14.4
         }
       ]
     },
@@ -47429,7 +47429,7 @@
           ],
           "diffClass": "master",
           "lvl": 12,
-          "levelConstant": 12
+          "levelConstant": 12.1
         },
         {
           "flags": [
@@ -47437,7 +47437,7 @@
           ],
           "diffClass": "remaster",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.9
         }
       ]
     },
@@ -47478,7 +47478,7 @@
           ],
           "diffClass": "master",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.4
         }
       ]
     },
@@ -47519,7 +47519,7 @@
           ],
           "diffClass": "master",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.7
         }
       ]
     },
@@ -47560,7 +47560,7 @@
           ],
           "diffClass": "master",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.9
         }
       ]
     },
@@ -47593,7 +47593,7 @@
           ],
           "diffClass": "expert",
           "lvl": 11.5,
-          "levelConstant": 11.6
+          "levelConstant": 11.9
         },
         {
           "flags": [
@@ -47601,7 +47601,7 @@
           ],
           "diffClass": "master",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.8
         }
       ]
     },
@@ -47642,7 +47642,7 @@
           ],
           "diffClass": "master",
           "lvl": 11.5,
-          "levelConstant": 11.6
+          "levelConstant": 11.8
         },
         {
           "flags": [
@@ -47650,7 +47650,7 @@
           ],
           "diffClass": "remaster",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.8
         }
       ]
     },
@@ -47724,7 +47724,7 @@
           ],
           "diffClass": "expert",
           "lvl": 10,
-          "levelConstant": 10
+          "levelConstant": 10.2
         },
         {
           "flags": [
@@ -47732,7 +47732,7 @@
           ],
           "diffClass": "master",
           "lvl": 11.5,
-          "levelConstant": 11.6
+          "levelConstant": 11.8
         },
         {
           "flags": [
@@ -47740,7 +47740,7 @@
           ],
           "diffClass": "remaster",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.8
         }
       ]
     },
@@ -47781,7 +47781,7 @@
           ],
           "diffClass": "master",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.9
         }
       ]
     },
@@ -47822,7 +47822,7 @@
           ],
           "diffClass": "master",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.5
         }
       ]
     },
@@ -47855,7 +47855,7 @@
           ],
           "diffClass": "expert",
           "lvl": 9.5,
-          "levelConstant": 9.6
+          "levelConstant": 9.8
         },
         {
           "flags": [
@@ -47863,7 +47863,7 @@
           ],
           "diffClass": "master",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.8
         }
       ]
     },
@@ -47904,7 +47904,7 @@
           ],
           "diffClass": "master",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.1
         }
       ]
     },
@@ -47937,7 +47937,7 @@
           ],
           "diffClass": "expert",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.8
         },
         {
           "flags": [
@@ -47945,7 +47945,7 @@
           ],
           "diffClass": "master",
           "lvl": 14.5,
-          "levelConstant": 14.6
+          "levelConstant": 14.9
         }
       ]
     },
@@ -47986,7 +47986,7 @@
           ],
           "diffClass": "master",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.8
         }
       ]
     },
@@ -48019,7 +48019,7 @@
           ],
           "diffClass": "expert",
           "lvl": 10,
-          "levelConstant": 10
+          "levelConstant": 10.5
         },
         {
           "flags": [
@@ -48027,7 +48027,7 @@
           ],
           "diffClass": "master",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.8
         }
       ]
     },
@@ -48068,7 +48068,7 @@
           ],
           "diffClass": "master",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.5
         }
       ]
     },
@@ -48109,7 +48109,7 @@
           ],
           "diffClass": "master",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.7
         }
       ]
     },
@@ -48150,7 +48150,7 @@
           ],
           "diffClass": "master",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.8
         }
       ]
     },
@@ -48183,7 +48183,7 @@
           ],
           "diffClass": "expert",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.8
         },
         {
           "flags": [
@@ -48191,7 +48191,7 @@
           ],
           "diffClass": "master",
           "lvl": 14,
-          "levelConstant": 14
+          "levelConstant": 14.4
         }
       ]
     },
@@ -48224,7 +48224,7 @@
           ],
           "diffClass": "expert",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.9
         },
         {
           "flags": [
@@ -48232,7 +48232,7 @@
           ],
           "diffClass": "master",
           "lvl": 14.5,
-          "levelConstant": 14.6
+          "levelConstant": 14.7
         }
       ]
     },
@@ -48273,7 +48273,7 @@
           ],
           "diffClass": "master",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.4
         }
       ]
     },
@@ -48314,7 +48314,7 @@
           ],
           "diffClass": "master",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.4
         }
       ]
     },
@@ -48355,7 +48355,7 @@
           ],
           "diffClass": "master",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.8
         }
       ]
     },
@@ -48396,7 +48396,7 @@
           ],
           "diffClass": "master",
           "lvl": 14,
-          "levelConstant": 14
+          "levelConstant": 14.4
         }
       ]
     },
@@ -48437,7 +48437,7 @@
           ],
           "diffClass": "master",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.2
         }
       ]
     },
@@ -48478,7 +48478,7 @@
           ],
           "diffClass": "master",
           "lvl": 12,
-          "levelConstant": 12
+          "levelConstant": 12.2
         }
       ]
     },
@@ -48552,7 +48552,7 @@
           ],
           "diffClass": "expert",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.8
         },
         {
           "flags": [
@@ -48593,7 +48593,7 @@
           ],
           "diffClass": "expert",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.9
         },
         {
           "flags": [
@@ -48601,7 +48601,7 @@
           ],
           "diffClass": "master",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.9
         }
       ]
     },
@@ -48634,7 +48634,7 @@
           ],
           "diffClass": "expert",
           "lvl": 12,
-          "levelConstant": 12
+          "levelConstant": 12.5
         },
         {
           "flags": [
@@ -48642,7 +48642,7 @@
           ],
           "diffClass": "master",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.7
         }
       ]
     },
@@ -48683,7 +48683,7 @@
           ],
           "diffClass": "master",
           "lvl": 14.5,
-          "levelConstant": 14.6
+          "levelConstant": 14.7
         }
       ]
     },
@@ -48716,7 +48716,7 @@
           ],
           "diffClass": "expert",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.7
         },
         {
           "flags": [
@@ -48724,7 +48724,7 @@
           ],
           "diffClass": "master",
           "lvl": 14.5,
-          "levelConstant": 14.6
+          "levelConstant": 14.9
         }
       ]
     },
@@ -48765,7 +48765,7 @@
           ],
           "diffClass": "master",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.7
         }
       ]
     },
@@ -48806,7 +48806,7 @@
           ],
           "diffClass": "master",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.8
         }
       ]
     },
@@ -48847,7 +48847,7 @@
           ],
           "diffClass": "master",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.7
         }
       ]
     },
@@ -48888,7 +48888,7 @@
           ],
           "diffClass": "master",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.2
         }
       ]
     },
@@ -48929,7 +48929,7 @@
           ],
           "diffClass": "master",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.4
         }
       ]
     },
@@ -49011,7 +49011,7 @@
           ],
           "diffClass": "master",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.8
         }
       ]
     },
@@ -49052,7 +49052,7 @@
           ],
           "diffClass": "master",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.7
         }
       ]
     },
@@ -49085,7 +49085,7 @@
           ],
           "diffClass": "expert",
           "lvl": 10.5,
-          "levelConstant": 10.6
+          "levelConstant": 10.8
         },
         {
           "flags": [
@@ -49093,7 +49093,7 @@
           ],
           "diffClass": "master",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.1
         }
       ]
     },
@@ -49134,7 +49134,7 @@
           ],
           "diffClass": "master",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.9
         }
       ]
     },
@@ -49175,7 +49175,7 @@
           ],
           "diffClass": "master",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.8
         }
       ]
     },
@@ -49216,7 +49216,7 @@
           ],
           "diffClass": "master",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.5
         }
       ]
     },
@@ -49298,7 +49298,7 @@
           ],
           "diffClass": "master",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.9
         }
       ]
     },
@@ -49339,7 +49339,7 @@
           ],
           "diffClass": "master",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.9
         }
       ]
     },
@@ -49372,7 +49372,7 @@
           ],
           "diffClass": "expert",
           "lvl": 12,
-          "levelConstant": 12
+          "levelConstant": 12.5
         },
         {
           "flags": [
@@ -49380,7 +49380,7 @@
           ],
           "diffClass": "master",
           "lvl": 14.5,
-          "levelConstant": 14.6
+          "levelConstant": 14.8
         }
       ]
     },
@@ -49421,7 +49421,7 @@
           ],
           "diffClass": "master",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.3
         }
       ]
     },
@@ -49462,7 +49462,7 @@
           ],
           "diffClass": "master",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.7
         }
       ]
     },
@@ -49536,7 +49536,7 @@
           ],
           "diffClass": "expert",
           "lvl": 12,
-          "levelConstant": 12
+          "levelConstant": 12.5
         },
         {
           "flags": [
@@ -49544,7 +49544,7 @@
           ],
           "diffClass": "master",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.8
         }
       ]
     },
@@ -49585,7 +49585,7 @@
           ],
           "diffClass": "master",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.8
         }
       ]
     },
@@ -49626,7 +49626,7 @@
           ],
           "diffClass": "master",
           "lvl": 14,
-          "levelConstant": 14
+          "levelConstant": 14.2
         }
       ]
     },
@@ -49659,7 +49659,7 @@
           ],
           "diffClass": "expert",
           "lvl": 12,
-          "levelConstant": 12
+          "levelConstant": 12.2
         },
         {
           "flags": [
@@ -49700,7 +49700,7 @@
           ],
           "diffClass": "expert",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.8
         },
         {
           "flags": [
@@ -49708,7 +49708,7 @@
           ],
           "diffClass": "master",
           "lvl": 14.5,
-          "levelConstant": 14.6
+          "levelConstant": 14.7
         },
         {
           "flags": [
@@ -49757,7 +49757,7 @@
           ],
           "diffClass": "master",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.8
         }
       ]
     },
@@ -49798,7 +49798,7 @@
           ],
           "diffClass": "master",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.9
         }
       ]
     },
@@ -49839,7 +49839,7 @@
           ],
           "diffClass": "master",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.9
         }
       ]
     },
@@ -49921,7 +49921,7 @@
           ],
           "diffClass": "master",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.1
         }
       ]
     },
@@ -49962,7 +49962,7 @@
           ],
           "diffClass": "master",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.9
         }
       ]
     },
@@ -49995,7 +49995,7 @@
           ],
           "diffClass": "expert",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.9
         },
         {
           "flags": [
@@ -50003,7 +50003,7 @@
           ],
           "diffClass": "master",
           "lvl": 14,
-          "levelConstant": 14
+          "levelConstant": 14.4
         }
       ]
     },
@@ -50036,7 +50036,7 @@
           ],
           "diffClass": "expert",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.2
         },
         {
           "flags": [
@@ -50077,7 +50077,7 @@
           ],
           "diffClass": "expert",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.9
         },
         {
           "flags": [
@@ -50085,7 +50085,7 @@
           ],
           "diffClass": "master",
           "lvl": 14,
-          "levelConstant": 14
+          "levelConstant": 14.5
         }
       ]
     },
@@ -50126,7 +50126,7 @@
           ],
           "diffClass": "master",
           "lvl": 11.5,
-          "levelConstant": 11.6
+          "levelConstant": 11.9
         },
         {
           "flags": [
@@ -50134,7 +50134,7 @@
           ],
           "diffClass": "remaster",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.8
         }
       ]
     },
@@ -50257,7 +50257,7 @@
           ],
           "diffClass": "master",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.8
         }
       ]
     },
@@ -50298,7 +50298,7 @@
           ],
           "diffClass": "master",
           "lvl": 11,
-          "levelConstant": 11
+          "levelConstant": 11.4
         },
         {
           "flags": [
@@ -50306,7 +50306,7 @@
           ],
           "diffClass": "remaster",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.1
         }
       ]
     },
@@ -50347,7 +50347,7 @@
           ],
           "diffClass": "master",
           "lvl": 11.5,
-          "levelConstant": 11.6
+          "levelConstant": 11.8
         },
         {
           "flags": [
@@ -50355,7 +50355,7 @@
           ],
           "diffClass": "remaster",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.3
         }
       ]
     },
@@ -50404,7 +50404,7 @@
           ],
           "diffClass": "remaster",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.2
         }
       ]
     },
@@ -50445,7 +50445,7 @@
           ],
           "diffClass": "master",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.3
         }
       ]
     },
@@ -50519,7 +50519,7 @@
           ],
           "diffClass": "expert",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.7
         },
         {
           "flags": [
@@ -50527,7 +50527,7 @@
           ],
           "diffClass": "master",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.7
         }
       ]
     },
@@ -50568,7 +50568,7 @@
           ],
           "diffClass": "master",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.8
         }
       ]
     },
@@ -50609,7 +50609,7 @@
           ],
           "diffClass": "master",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.7
         }
       ]
     },
@@ -50691,7 +50691,7 @@
           ],
           "diffClass": "master",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.7
         }
       ]
     },
@@ -50724,7 +50724,7 @@
           ],
           "diffClass": "expert",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.8
         },
         {
           "flags": [
@@ -50773,7 +50773,7 @@
           ],
           "diffClass": "master",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.4
         }
       ]
     },
@@ -50814,7 +50814,7 @@
           ],
           "diffClass": "master",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.9
         }
       ]
     },
@@ -50847,7 +50847,7 @@
           ],
           "diffClass": "expert",
           "lvl": 12,
-          "levelConstant": 12
+          "levelConstant": 12.5
         },
         {
           "flags": [
@@ -50855,7 +50855,7 @@
           ],
           "diffClass": "master",
           "lvl": 14,
-          "levelConstant": 14
+          "levelConstant": 14.5
         }
       ]
     },
@@ -50896,7 +50896,7 @@
           ],
           "diffClass": "master",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.4
         }
       ]
     },
@@ -50937,7 +50937,7 @@
           ],
           "diffClass": "master",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.3
         }
       ]
     },
@@ -50978,7 +50978,7 @@
           ],
           "diffClass": "master",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.7
         }
       ]
     },
@@ -51019,7 +51019,7 @@
           ],
           "diffClass": "master",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.8
         }
       ]
     },
@@ -51060,7 +51060,7 @@
           ],
           "diffClass": "master",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.5
         }
       ]
     },
@@ -51101,7 +51101,7 @@
           ],
           "diffClass": "master",
           "lvl": 14,
-          "levelConstant": 14
+          "levelConstant": 14.2
         }
       ]
     },
@@ -51142,7 +51142,7 @@
           ],
           "diffClass": "master",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.8
         }
       ]
     },
@@ -51175,7 +51175,7 @@
           ],
           "diffClass": "expert",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.8
         },
         {
           "flags": [
@@ -51183,7 +51183,7 @@
           ],
           "diffClass": "master",
           "lvl": 14,
-          "levelConstant": 14
+          "levelConstant": 14.5
         }
       ]
     },
@@ -51265,7 +51265,7 @@
           ],
           "diffClass": "master",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.7
         }
       ]
     },
@@ -51306,7 +51306,7 @@
           ],
           "diffClass": "master",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.1
         }
       ]
     },
@@ -51388,7 +51388,7 @@
           ],
           "diffClass": "master",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.7
         }
       ]
     },
@@ -51470,7 +51470,7 @@
           ],
           "diffClass": "master",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.3
         }
       ]
     },
@@ -51503,7 +51503,7 @@
           ],
           "diffClass": "expert",
           "lvl": 12,
-          "levelConstant": 12
+          "levelConstant": 12.5
         },
         {
           "flags": [
@@ -51511,7 +51511,7 @@
           ],
           "diffClass": "master",
           "lvl": 14.5,
-          "levelConstant": 14.6
+          "levelConstant": 14.7
         }
       ]
     },
@@ -51593,7 +51593,7 @@
           ],
           "diffClass": "master",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.9
         }
       ]
     },
@@ -51634,7 +51634,7 @@
           ],
           "diffClass": "master",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.7
         }
       ]
     },
@@ -51675,7 +51675,7 @@
           ],
           "diffClass": "master",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.3
         }
       ]
     },
@@ -51716,7 +51716,7 @@
           ],
           "diffClass": "master",
           "lvl": 14,
-          "levelConstant": 14
+          "levelConstant": 14.3
         }
       ]
     },
@@ -51757,7 +51757,7 @@
           ],
           "diffClass": "master",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.4
         }
       ]
     },
@@ -51872,7 +51872,7 @@
           ],
           "diffClass": "expert",
           "lvl": 12,
-          "levelConstant": 12
+          "levelConstant": 12.5
         },
         {
           "flags": [
@@ -51880,7 +51880,7 @@
           ],
           "diffClass": "master",
           "lvl": 14,
-          "levelConstant": 14
+          "levelConstant": 14.2
         }
       ]
     },
@@ -51921,7 +51921,7 @@
           ],
           "diffClass": "master",
           "lvl": 14,
-          "levelConstant": 14
+          "levelConstant": 14.5
         }
       ]
     },
@@ -51962,7 +51962,7 @@
           ],
           "diffClass": "master",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.2
         }
       ]
     },
@@ -52003,7 +52003,7 @@
           ],
           "diffClass": "master",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.1
         }
       ]
     },
@@ -52044,7 +52044,7 @@
           ],
           "diffClass": "master",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.9
         }
       ]
     },
@@ -52085,7 +52085,7 @@
           ],
           "diffClass": "master",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.7
         }
       ]
     },
@@ -52126,7 +52126,7 @@
           ],
           "diffClass": "master",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.5
         }
       ]
     },
@@ -52159,7 +52159,7 @@
           ],
           "diffClass": "expert",
           "lvl": 12,
-          "levelConstant": 12
+          "levelConstant": 12.5
         },
         {
           "flags": [
@@ -52167,7 +52167,7 @@
           ],
           "diffClass": "master",
           "lvl": 14,
-          "levelConstant": 14
+          "levelConstant": 14.5
         }
       ]
     },
@@ -52200,7 +52200,7 @@
           ],
           "diffClass": "expert",
           "lvl": 12.5,
-          "levelConstant": 12.6
+          "levelConstant": 12.9
         },
         {
           "flags": [
@@ -52208,7 +52208,7 @@
           ],
           "diffClass": "master",
           "lvl": 14.5,
-          "levelConstant": 14.6
+          "levelConstant": 14.8
         }
       ]
     },
@@ -52249,7 +52249,7 @@
           ],
           "diffClass": "master",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.8
         }
       ]
     },
@@ -52290,7 +52290,7 @@
           ],
           "diffClass": "master",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.1
         }
       ]
     },
@@ -52331,7 +52331,7 @@
           ],
           "diffClass": "master",
           "lvl": 13,
-          "levelConstant": 13
+          "levelConstant": 13.5
         }
       ]
     },
@@ -52372,7 +52372,7 @@
           ],
           "diffClass": "master",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.7
         }
       ]
     },
@@ -52413,7 +52413,7 @@
           ],
           "diffClass": "master",
           "lvl": 13.5,
-          "levelConstant": 13.6
+          "levelConstant": 13.8
         }
       ]
     },
