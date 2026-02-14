@@ -3207,14 +3207,6 @@
           "diffClass": "master",
           "lvl": 13,
           "levelConstant": 13.4
-        },
-        {
-          "flags": [
-            "std"
-          ],
-          "diffClass": "remaster",
-          "lvl": 14,
-          "levelConstant": 14.4
         }
       ]
     },
@@ -31945,14 +31937,6 @@
           "diffClass": "master",
           "lvl": 13,
           "levelConstant": 13.4
-        },
-        {
-          "flags": [
-            "dx"
-          ],
-          "diffClass": "remaster",
-          "lvl": 14,
-          "levelConstant": 14.1
         }
       ]
     },
@@ -33732,14 +33716,6 @@
           "diffClass": "master",
           "lvl": 13,
           "levelConstant": 13
-        },
-        {
-          "flags": [
-            "dx"
-          ],
-          "diffClass": "remaster",
-          "lvl": 13.5,
-          "levelConstant": 13.7
         }
       ]
     },
@@ -36936,14 +36912,6 @@
           "diffClass": "master",
           "lvl": 13,
           "levelConstant": 13
-        },
-        {
-          "flags": [
-            "dx"
-          ],
-          "diffClass": "remaster",
-          "lvl": 13.5,
-          "levelConstant": 13.7
         }
       ]
     },
