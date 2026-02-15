@@ -55114,6 +55114,170 @@
       ]
     },
     {
+      "name": "果ての空、僕らが見た光。",
+      "artist": "TAKU1175 ft.駄々子",
+      "folder": "PRiSM",
+      "category": "maimai",
+      "jacket": "maimai/1275bb73fb80851e8cd8705bbc27b98b6ebe77927ddbf7fe5a760679ba02b847.png",
+      "charts": [
+        {
+          "flags": [
+            "dx"
+          ],
+          "diffClass": "basic",
+          "lvl": 4,
+          "levelConstant": 4
+        },
+        {
+          "flags": [
+            "dx"
+          ],
+          "diffClass": "advanced",
+          "lvl": 8,
+          "levelConstant": 8
+        },
+        {
+          "flags": [
+            "dx"
+          ],
+          "diffClass": "expert",
+          "lvl": 10.5,
+          "levelConstant": 10.6
+        },
+        {
+          "flags": [
+            "dx"
+          ],
+          "diffClass": "master",
+          "lvl": 13.5,
+          "levelConstant": 13.7
+        }
+      ]
+    },
+    {
+      "name": "氷滅の135小節",
+      "artist": "大国奏音",
+      "folder": "PRiSM",
+      "category": "maimai",
+      "jacket": "maimai/b3611ad947539aecf46eb5501f773cd79bd6a0ee89089db38795cf861d3ff7c2.png",
+      "charts": [
+        {
+          "flags": [
+            "dx"
+          ],
+          "diffClass": "basic",
+          "lvl": 7,
+          "levelConstant": 7
+        },
+        {
+          "flags": [
+            "dx"
+          ],
+          "diffClass": "advanced",
+          "lvl": 9.5,
+          "levelConstant": 9.6
+        },
+        {
+          "flags": [
+            "dx"
+          ],
+          "diffClass": "expert",
+          "lvl": 13,
+          "levelConstant": 13.4
+        },
+        {
+          "flags": [
+            "dx"
+          ],
+          "diffClass": "master",
+          "lvl": 14.5,
+          "levelConstant": 14.8
+        }
+      ]
+    },
+    {
+      "name": "有明/Ariake",
+      "artist": "SIINCA",
+      "folder": "PRiSM",
+      "category": "maimai",
+      "jacket": "maimai/a70c124f528230613aee0e5963c0b1d2c214da5a0022d25cc9080fb01a048a43.png",
+      "charts": [
+        {
+          "flags": [
+            "dx"
+          ],
+          "diffClass": "basic",
+          "lvl": 5,
+          "levelConstant": 5
+        },
+        {
+          "flags": [
+            "dx"
+          ],
+          "diffClass": "advanced",
+          "lvl": 8,
+          "levelConstant": 8
+        },
+        {
+          "flags": [
+            "dx"
+          ],
+          "diffClass": "expert",
+          "lvl": 12,
+          "levelConstant": 12.4
+        },
+        {
+          "flags": [
+            "dx"
+          ],
+          "diffClass": "master",
+          "lvl": 14,
+          "levelConstant": 14.4
+        }
+      ]
+    },
+    {
+      "name": "宙天",
+      "artist": "t+pazolite vs かねこちはる",
+      "folder": "PRiSM",
+      "category": "maimai",
+      "jacket": "maimai/8210d983a3fb31ce543248857a382d89df7db570caf68fdde3c6706d39ec9277.png",
+      "charts": [
+        {
+          "flags": [
+            "dx"
+          ],
+          "diffClass": "basic",
+          "lvl": 6,
+          "levelConstant": 6
+        },
+        {
+          "flags": [
+            "dx"
+          ],
+          "diffClass": "advanced",
+          "lvl": 8.5,
+          "levelConstant": 8.6
+        },
+        {
+          "flags": [
+            "dx"
+          ],
+          "diffClass": "expert",
+          "lvl": 13,
+          "levelConstant": 13.5
+        },
+        {
+          "flags": [
+            "dx"
+          ],
+          "diffClass": "master",
+          "lvl": 14.5,
+          "levelConstant": 14.9
+        }
+      ]
+    },
+    {
       "name": "Fraq",
       "artist": "owl＊tree feat. べんざ",
       "folder": "PRiSM PLUS",
